@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @waribu
 - 👀 I’m interested in web app development
 - 🌱 I’m currently learning python language
-- 📫 How to reach me .gwaribu@gmail.com
+- 📫 How to reach me gwaribu@gmail.com
 
 <!---
 waribu/waribu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
