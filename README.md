@@ -3,7 +3,7 @@
 - 🐍 I’m currently working on Python projects
 - 📚 I’m currently learning about Vue.js
 - 🎮 I'm into gaming too
-- 💬 Ask me about anything
+- 💬 Ask me about anything,Python
 - 📫 How to reach me gwaribu@gmail.com
 
 <!---
