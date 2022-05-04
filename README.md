@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @waribu
 - 👀 I’m interested in web app development
-- 🐍 I’m currently working on Python projects
+- 🐍 I’m currently working on JS & Python projects
 - 💬 Ask me about anything,Python
 - 📫 How to reach me gwaribu@gmail.com
 
