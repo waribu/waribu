@@ -1,7 +1,7 @@
-![MasterHead](https://miro.medium.com/max/700/1*v8Z6faF7ij8iSwunSMcTZA.gif)
+![MasterHead](align="left" alt="Coding" width="400" src= https://miro.medium.com/max/700/1*v8Z6faF7ij8iSwunSMcTZA.gif)
 <h1 align="center">Hi 👋, I'm Waribu</h1>
 <h3 align="center">Web Developer from Nairobi</h3>
-<img align="center" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+<img align="left" alt="Coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
 
 <h3 align="center">Email Me Anytime:</h3>
 
