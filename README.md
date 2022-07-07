@@ -5,8 +5,7 @@
 
  📫 How to reach me **gwaribu@gmail.com**
 
-
-<p align="left">
+<h5>Languages and Tools:</h5>
 
 ###
 
