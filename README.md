@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Waribu</h1>
 <h3 align="center">A Problem Solver from Kenya</h3>
 
-- 🔭 I’m currently learning : TypeScript
+- 🔭 I’m currently learning : DevOps
 - ⚡ Fun fact: I have a plant for a pet 
 - 📫 How to reach me: 
  
